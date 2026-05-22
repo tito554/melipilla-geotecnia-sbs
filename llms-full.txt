@@ -1,0 +1,51 @@
+# Geotecnia1 — Melipilla
+
+> Geotechnical engineering services in Melipilla, Chile.
+
+## Services
+- [Aislacion Sismica](https://melipilla.geotecnia.sbs/aislacion-sismica/)
+- [Anclajes](https://melipilla.geotecnia.sbs/anclajes/)
+- [Calicatas](https://melipilla.geotecnia.sbs/calicatas/)
+- [Cbr Vial](https://melipilla.geotecnia.sbs/cbr-vial/)
+- [Cimentaciones](https://melipilla.geotecnia.sbs/cimentaciones/)
+- [Columnas Grava](https://melipilla.geotecnia.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://melipilla.geotecnia.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://melipilla.geotecnia.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://melipilla.geotecnia.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://melipilla.geotecnia.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://melipilla.geotecnia.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://melipilla.geotecnia.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://melipilla.geotecnia.sbs/exploracion/)
+- [Geotecnia Vial](https://melipilla.geotecnia.sbs/geotecnia-vial/)
+- [Granulometria](https://melipilla.geotecnia.sbs/granulometria/)
+- [Inyecciones](https://melipilla.geotecnia.sbs/inyecciones/)
+- [Laboratorio In Situ](https://melipilla.geotecnia.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://melipilla.geotecnia.sbs/laboratorio-lab/)
+- [Licuefaccion](https://melipilla.geotecnia.sbs/licuefaccion/)
+- [Limites Atterberg](https://melipilla.geotecnia.sbs/limites-atterberg/)
+- [Losas Fundacion](https://melipilla.geotecnia.sbs/losas-fundacion/)
+- [Masw](https://melipilla.geotecnia.sbs/masw/)
+- [Mejoramiento](https://melipilla.geotecnia.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://melipilla.geotecnia.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://melipilla.geotecnia.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://melipilla.geotecnia.sbs/muros-contencion/)
+- [Pavimento Flexible](https://melipilla.geotecnia.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://melipilla.geotecnia.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://melipilla.geotecnia.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://melipilla.geotecnia.sbs/pilotes/)
+- [Refraccion Sismica](https://melipilla.geotecnia.sbs/refraccion-sismica/)
+- [Resistividad](https://melipilla.geotecnia.sbs/resistividad/)
+- [Sismica](https://melipilla.geotecnia.sbs/sismica/)
+- [Sondajes Spt](https://melipilla.geotecnia.sbs/sondajes-spt/)
+- [Taludes](https://melipilla.geotecnia.sbs/taludes/)
+- [Triaxial](https://melipilla.geotecnia.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://melipilla.geotecnia.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://melipilla.geotecnia.sbs/vibrocompactacion/)
+- [Zapatas](https://melipilla.geotecnia.sbs/zapatas/)
+
+## Contact
+- Website: https://melipilla.geotecnia.sbs/
+
+## About
+This site provides geotechnical engineering services in Melipilla, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
